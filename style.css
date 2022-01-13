@@ -1,0 +1,280 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+
+}
+.container{
+  position: relative;
+
+}
+.container .page1 .navbar{
+
+  width: 1389px;
+  height: 50px;
+  margin-left: -8px;
+  top: -6px;
+  
+}
+.container .page1{
+  position: absolute;
+  width: 1366px;
+  height: 800px;
+ left: -10%;
+ top: 4px;
+  
+}
+
+.container .page1 img{
+  position: absolute;
+  width: 1366px;
+  height: 800px;
+}
+.container .page1 .card .jumbotron{
+  position: absolute;
+  width: 600px;
+  height: 795px;
+  left: 72px;
+  top: 2px;
+  background-color: rgba(4, 11, 17, 0.856);
+}
+.container .page1 .card .jumbotron p{
+  font-weight: 300;
+  color: rgb(114, 128, 168);
+}
+.container .page1 .card .jumbotron h1{
+  color: aliceblue;
+}
+.container .page1 .card .jumbotron ul{
+  color: rgb(153, 194, 167);
+}
+.container .page1 .card .jumbotron a{
+  position: absolute;
+  top: 700px;
+  background-color: rgb(236, 240, 3);
+  color: black;
+}
+.container .page2{
+    position: absolute;
+    width: 1366px;
+    height: 700px;
+    background-color: rgb(17, 7, 27);
+    top: 854px;
+    left: -10%;
+  
+}
+.container .page2 .jumbotron{
+  position: absolute;
+  width: 600px;
+  height: 700px;
+  left: 700px;
+  background-color: rgba(194, 201, 195, 0.856);
+}
+.container .page2 #carouselExampleCaptions{
+
+  width: 500px;
+  height: 500px;
+  left: 122px;
+  top: 100px;
+  border-color: chocolate;
+  box-shadow: darkcyan;
+}
+.container .page2 .jumbotron p{
+  font-weight: 300;
+  color: rgb(11, 16, 27);
+}
+.container .page2 .jumbotron h1{
+  color: rgb(2, 37, 68);
+}
+.container .page2 .jumbotron ul{
+  color: rgb(153, 194, 167);
+}
+.container .page2 .jumbotron a{
+  position: absolute;
+  top: 550px;
+  left: 420px;
+  background-color: rgb(16, 3, 31);
+  color: rgb(253, 251, 251);
+}
+.container .page3{
+  position: absolute;
+  width: 1366px;
+  height: 800px;
+  background-color: rgba(0, 0, 0, 0.973);
+  top: 1554px;
+  left: -10%;
+  
+}
+.container .page3 .song h2{
+position: absolute;
+  color: rgb(224, 197, 45);
+  font-weight: 800;
+  font-style: initial;
+  left: 150px;
+  margin-top: 5px;
+  
+}
+.container .page3 .song h3{
+  position: absolute;
+  color: rgb(224, 197, 45);
+  font-weight: 400;
+  font-style: initial;
+  left: 350px;
+  margin-top: 10px;
+}
+.container .page3 .chiziq{
+  background-color: rgb(224, 197, 45);
+  position: absolute;
+  width: 1366px;
+  height: 5px;
+  top: 160px;
+}
+.container .page3 .song1 h2{
+  position: absolute;
+    color: rgb(224, 197, 45);
+    font-weight: 800;
+    font-style: initial;
+    left: 150px;
+    margin-top: 5px;
+    
+  }
+  .container .page3 .song1 h3{
+    position: absolute;
+    color: rgb(224, 197, 45);
+    font-weight: 400;
+    font-style: initial;
+    left: 350px;
+    margin-top: 10px;
+  }
+  .container .page3 .chiziq1{
+    background-color: rgb(224, 197, 45);
+    position: absolute;
+    width: 1366px;
+    height: 5px;
+    top: 360px;
+  }
+  .container .page3 .song2 h2{
+    position: absolute;
+      color: rgb(224, 197, 45);
+      font-weight: 800;
+      font-style: initial;
+      left: 150px;
+      margin-top: 70px;
+      
+    }
+    .container .page3 .song2 h3{
+      position: absolute;
+      color: rgb(224, 197, 45);
+      font-weight: 400;
+      font-style: initial;
+      left: 750px;
+      margin-top: 70px;
+    }
+    .container .page3 .chiziq2{
+      background-color: rgb(224, 197, 45);
+      position: absolute;
+      width: 1365px;
+      height: 5px;
+      top: 560px;
+    }
+    .container .page3 #player3{
+      position: absolute;
+      top: 450px;
+    }
+    .container .page3 .song3 h2{
+      position: absolute;
+        color: rgb(224, 197, 45);
+        font-weight: 800;
+        font-style: initial;
+        left: 150px;
+        margin-top: 190px;
+        
+      }
+      .container .page3 .song3 h3{
+        position: absolute;
+        color: rgb(224, 197, 45);
+        font-weight: 400;
+        font-style: initial;
+        left: 450px;
+        margin-top: 190px;
+      }
+      .container .page3 .chiziq3{
+        background-color: rgb(224, 197, 45);
+        position: absolute;
+        width: 1365px;
+        height: 5px;
+        top: 760px;
+      }
+      .container .page3 #player4{
+        position: absolute;
+        top: 650px;
+      }
+      .container .page4{
+        position: absolute;
+        width: 1366px;
+        height: 600px;
+        left: -10%;
+  
+        top: 2354px;
+  
+      }
+    .container .page4 img{
+ 
+      width: 1366px;
+      height: 800px;
+    }
+    .container .page4 .jumbotron{
+      position: absolute;
+      width: 1366px;
+      height: 400px;
+      top: 0px;
+      opacity: 0.3;
+    }
+    .container .page5{
+      position: absolute;
+      width: 1366px;
+      height: 600px;
+      left: -10%;
+
+      top: 3154px;
+
+    }
+  .container .page5 img{
+
+    width: 1366px;
+    height: 800px;
+  }
+  .container .page5 .form{
+    position: absolute;
+    top: 200px;
+    left: 800px;
+    background-color: rgb(7, 3, 3);
+    opacity: 0.8;
+    width: 500px;
+    height: 500px;
+    border-style: solid;
+    border-radius: 3px;
+  }
+  .container .page5 .form form{
+    position: absolute;
+    left: 30px;
+    top: 40px;}
+    .container .page5 .form form label{
+      color: white;
+      font-weight: 500;
+    }
+    .container .page5 .form form small{
+      color: white;
+      font-weight: 300;
+    }
+    .container .page5 .form form input{
+      border-top: hidden;
+      border-left: hidden;
+      border-right: hidden;
+      background-color: black;
+      color: white;
+    }
+    .container .page5 .form form button{
+      background-color: rgb(231, 217, 13);
+      color: black;
+    }
